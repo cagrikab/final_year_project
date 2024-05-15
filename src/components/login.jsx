@@ -145,7 +145,7 @@ export const Login = () => {
                 type="submit"
                 disabled={isSubmitting}
               >
-                Şimdi Katıl
+                Şimdi 
               </button>
             </form>
           )}
